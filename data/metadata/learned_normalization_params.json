@@ -1,0 +1,41 @@
+{
+  "qPCR": {
+    "log_min": 1,
+    "log_max": 6,
+    "log_range": 5,
+    "use_log": true
+  },
+  "Luciferase_ex_vivo": {
+    "log_min": 0,
+    "log_max": 5,
+    "log_range": 5,
+    "use_log": true
+  },
+  "Luciferase_in_vivo": {
+    "log_min": 2,
+    "log_max": 6,
+    "log_range": 4,
+    "use_log": true
+  },
+  "GFP/mCherry": {
+    "min": 0,
+    "max": 100,
+    "use_log": false
+  },
+  "IHC": {
+    "min": 0,
+    "max": 100,
+    "use_log": false
+  },
+  "Western": {
+    "min": 0,
+    "max": 1,
+    "use_log": false
+  },
+  "ELISA": {
+    "log_min": 2,
+    "log_max": 7,
+    "log_range": 5,
+    "use_log": true
+  }
+}

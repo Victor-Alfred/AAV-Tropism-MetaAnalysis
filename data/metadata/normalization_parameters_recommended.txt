@@ -1,0 +1,27 @@
+RECOMMENDED NORMALIZATION PARAMETERS
+======================================================================
+
+Analysis date: 2026-02-20 15:25:25.507144
+Total data points analyzed: 103
+
+
+Luciferase_ex_vivo:
+  Data points: 49
+  Actual range: 2.53e+00 to 1.21e+05
+  Recommended log_min: 0
+  Recommended log_max: 4
+  Recommended log_range: 4
+
+Luciferase_in_vivo:
+  Data points: 18
+  Actual range: 8.38e+02 to 5.71e+05
+  Recommended log_min: 2
+  Recommended log_max: 6
+  Recommended log_range: 4
+
+qPCR:
+  Data points: 36
+  Actual range: 5.06e+01 to 3.06e+06
+  Recommended log_min: 2
+  Recommended log_max: 6
+  Recommended log_range: 4

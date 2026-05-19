@@ -1,0 +1,10 @@
+serotype,qPCR (Delivery),Luciferase (Function),Weighted_Score,Overall_Tropism,Weighted_Rank,Overall_Rank,Consensus_Rank,Route_Type
+AAV9,4.75,-1.889908256880734,0.7660550458715598,,1.0,,1.0,Systemic
+AAV8,4.1640625,-2.513761467889909,0.15736811926605476,,2.0,,2.0,Systemic
+AAV1,3.4609375,,,,,,,Systemic
+AAV2,3.6953125,,,,,,,Systemic
+AAV3,2.249999999999999,,,,,,,Systemic
+AAV4,4.7109375,,,,,,,Systemic
+AAV5,4.046874999999999,,,,,,,Systemic
+AAV6,4.085937499999996,,,,,,,Systemic
+AAV7,2.9921875,,,,,,,Systemic

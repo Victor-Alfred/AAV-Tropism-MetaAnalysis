@@ -1,0 +1,8 @@
+paper_id,pmid,first_author,year,journal,serotype,tissue,species,administration_route,dose_vg_kg,timepoint_days,measurement_method,raw_value,units,normalized_score,quality_score,notes,figure_reference,extraction_date
+1,18432245,Zincarelli,2008,Molecular Therapy,AAV1,Liver,Mouse,IV,100000000000.0,14,qPCR,5200000000.0,vg/ug DNA,4.5,High,"C57BL/6 mice, n=3-5 per group, tail vein injection",Figure 2A,2024-02-17
+1,18432245,Zincarelli,2008,Molecular Therapy,AAV1,Brain,Mouse,IV,100000000000.0,14,qPCR,120000000.0,vg/ug DNA,1.8,High,"C57BL/6 mice, n=3-5 per group",Figure 2A,2024-02-17
+1,18432245,Zincarelli,2008,Molecular Therapy,AAV2,Liver,Mouse,IV,100000000000.0,14,qPCR,3800000000.0,vg/ug DNA,3.9,High,"C57BL/6 mice, n=3-5 per group",Figure 2A,2024-02-17
+2,26814963,Deverman,2016,Nature Biotechnology,AAV-PHP.eB,Brain,Mouse,IV,100000000000.0,21,Luciferase,1500000.0,RLU,4.2,High,"C57BL/6J mice, n=3, retro-orbital injection",Figure 1c,2024-02-17
+2,26814963,Deverman,2016,Nature Biotechnology,AAV9,Brain,Mouse,IV,100000000000.0,21,GFP,15.0,% positive cells,0.75,High,"C57BL/6J mice, n=3, cortical neurons",Figure 1c,2024-02-17
+3,25847991,Wang,2015,Molecular Therapy,AAVrh10,Liver,NHP,IV,20000000000000.0,28,qPCR,8500000000.0,vg/ug DNA,4.8,High,"Rhesus macaques, n=3, peripheral vein",Figure 3B,2024-02-17
+4,XXXXXXXX,Example,2020,Gene Therapy,AAV8,Muscle,Mouse,IM,50000000000.0,7,IHC,3.0,semi-quantitative (0-4),3.75,Medium,"BALB/c mice, n=3, no negative control reported",Figure 4A,2024-02-17

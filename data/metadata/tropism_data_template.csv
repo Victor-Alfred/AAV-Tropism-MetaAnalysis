@@ -1,0 +1,4 @@
+paper_id,pmid,first_author,year,journal,serotype,tissue,species,administration_route,dose_vg_kg,timepoint_days,measurement_method,value,units,normalized_score,quality_score,notes,figure_reference
+1,18432245,Zincarelli,2008,Mol Ther,AAV1,Liver,Mouse,IV,1e11,2,qPCR,5.2e9,vg/ug DNA,4.5,High,Seminal tropism paper,Figure 2A
+2,18432245,Zincarelli,2008,Mol Ther,AAV1,Brain,Mouse,IV,1e11,2,qPCR,1.2e8,vg/ug DNA,1.8,High,Seminal tropism paper,Figure 2A
+3,18432245,Zincarelli,2008,Mol Ther,AAV2,Liver,Mouse,IV,1e11,2,qPCR,3.8e9,vg/ug DNA,3.2,High,Seminal tropism paper,Figure 2A

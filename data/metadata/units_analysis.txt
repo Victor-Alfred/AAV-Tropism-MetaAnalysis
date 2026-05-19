@@ -1,0 +1,6 @@
+UNIT ANALYSIS
+======================================================================
+
+RLU/mg protein: 49
+vg/ug DNA: 36
+Photons/sec/cm 2 /sr: 18
